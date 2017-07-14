@@ -1,7 +1,222 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e6cd1cf-aef2-457f-aa9e-5e39708304d5" name="Default" comment="" />
+    <list default="true" id="7e6cd1cf-aef2-457f-aa9e-5e39708304d5" name="Default" comment="second commit">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_boxCheckmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_boxCross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_boxTick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_button00.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_button01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_button02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_button03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_button04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_button05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_button06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_button07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_button08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_button09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_button10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_button11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_button12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_button13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_checkmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_circle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_cross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_panel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_sliderDown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_sliderLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_sliderRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_sliderUp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/blue_tick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/dropdownBottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/dropdownMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/dropdownTop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_boxCheckmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_boxCross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_boxTick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_button00.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_button01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_button02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_button03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_button04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_button05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_button06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_button07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_button08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_button09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_button10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_button11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_button12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_button13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_checkmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_circle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_cross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_panel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_sliderDown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_sliderLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_sliderRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_sliderUp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/green_tick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_arrowDownGrey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_arrowDownWhite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_arrowUpGrey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_arrowUpWhite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_box.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_boxCheckmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_boxCross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_boxTick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_button00.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_button01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_button02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_button03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_button04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_button05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_button06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_button07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_button08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_button09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_button10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_button11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_button12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_button13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_button14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_button15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_checkmarkGrey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_checkmarkWhite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_circle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_crossGrey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_crossWhite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_panel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_sliderDown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_sliderEnd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_sliderHorizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_sliderLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_sliderRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_sliderUp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_sliderVertical.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_tickGrey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/grey_tickWhite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_boxCheckmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_boxCross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_boxTick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_button00.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_button01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_button02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_button03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_button04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_button05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_button06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_button07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_button08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_button09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_button10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_button11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_button12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_button13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_checkmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_circle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_cross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_panel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_sliderDown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_sliderLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_sliderRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_sliderUp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/red_tick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_boxCheckmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_boxCross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_boxTick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_button00.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_button01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_button02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_button03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_button04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_button05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_button06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_button07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_button08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_button09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_button10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_button11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_button12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_button13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_checkmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_circle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_cross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_panel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_sliderDown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_sliderLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_sliderRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_sliderUp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Menu/yellow_tick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/MyFont.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Object_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Tile_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Tile_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Tile_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Tile_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Tile_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Tile_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Tile_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Tile_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Tile_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Tile_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Tile_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Tile_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Tile_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Tile_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/Tile_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/_Spritesheet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/PNG/bridge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/player.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/webapp/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/MyFont.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/MyGdxGame.gwt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/mygdx/game/Block.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/mygdx/game/Level1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/mygdx/game/Player.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/desktop/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/src/com/mygdx/game/GdxDefinition.gwt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/src/com/mygdx/game/GdxDefinitionSuperdev.gwt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/src/com/mygdx/game/client/HtmlLauncher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/webapp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/webapp/soundmanager2-jsmin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/webapp/soundmanager2-setup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/webapp/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop.ini" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/Level1.class" afterPath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/Level1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libgdxText.ipr" afterPath="$PROJECT_DIR$/libgdxText.ipr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libgdxText.iws" afterPath="$PROJECT_DIR$/libgdxText.iws" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -72,49 +287,13 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyGdxGame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DesktopLauncher.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Player.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file leaf-file-name="Block.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Block.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="72" column="125" lean-forward="false" selection-start-line="72" selection-start-column="125" selection-end-line="72" selection-end-column="125" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="172">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -122,11 +301,19 @@
       <file leaf-file-name="Level1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Level1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyGdxGame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -139,6 +326,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -1032,9 +1222,14 @@
     <option name="modificationStamps">
       <map>
         <entry key="$PROJECT_DIR$" value="10493726075929" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3726927817" />
+        <entry key="$PROJECT_DIR$/core/build.gradle" value="2971590108" />
+        <entry key="$PROJECT_DIR$/desktop/build.gradle" value="1520222365" />
+        <entry key="$PROJECT_DIR$/gradle.properties" value="975134833" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="4179503194" />
         <entry key="$PROJECT_DIR$/html/build(1).gradle" value="2810565141" />
         <entry key="$PROJECT_DIR$/html/build.gradle" value="1317187624" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="2505243910" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1254,8 +1449,9 @@
         <option value="$PROJECT_DIR$/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java" />
         <option value="$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java" />
         <option value="$PROJECT_DIR$/core/src/com/mygdx/game/Player.java" />
-        <option value="$PROJECT_DIR$/core/src/com/mygdx/game/Block.java" />
         <option value="$PROJECT_DIR$/core/src/com/mygdx/game/Level1.java" />
+        <option value="$PROJECT_DIR$/html/build/libs/exploded/html-1.0.war/WEB-INF/classes/com/mygdx/game/client/HtmlLauncher.class" />
+        <option value="$PROJECT_DIR$/core/src/com/mygdx/game/Block.java" />
       </list>
     </option>
   </component>
@@ -1305,6 +1501,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1327,20 +1524,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="desktop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libgdxText" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libgdxText" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="core" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -1359,15 +1542,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libgdxText" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libgdxText" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1380,7 +1584,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -1921,15 +2125,17 @@
       <workItem from="1499451108158" duration="6531000" />
       <workItem from="1499546642305" duration="13293000" />
       <workItem from="1499571802473" duration="6755000" />
+      <workItem from="1500032295345" duration="4424000" />
+      <workItem from="1500036886995" duration="270000" />
+      <workItem from="1500037194893" duration="2033000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65527000" />
+    <option name="totallyTimeSpent" value="72254000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1951,10 +2157,10 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3344" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1976,6 +2182,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1989,370 +2197,112 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Block.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1445">
-          <caret line="85" column="13" lean-forward="true" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Level1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Block.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1989">
-          <caret line="117" column="5" lean-forward="true" selection-start-line="117" selection-start-column="5" selection-end-line="117" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Level1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Level1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="62" column="25" lean-forward="false" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Block.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Level1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java" />
+    <entry file="file://$PROJECT_DIR$/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java" />
+    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Block.java" />
+    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Level1.java" />
+    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Player.java" />
+    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java" />
+    <entry file="file://$PROJECT_DIR$/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java" />
+    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Player.java" />
+    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Level1.java" />
+    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Block.java" />
+    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java" />
+    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Player.java" />
+    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Level1.java" />
+    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java" />
+    <entry file="file://$PROJECT_DIR$/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java" />
+    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java" />
+    <entry file="file://$PROJECT_DIR$/html/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java" />
     <entry file="file://$PROJECT_DIR$/core/assets/badlogic.jpg" />
-    <entry file="file://$PROJECT_DIR$/html/webapp/refresh.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/webapp/index.html">
+    <entry file="file://$PROJECT_DIR$/html/webapp/refresh.png" />
+    <entry file="file://$PROJECT_DIR$/html/webapp/index.html" />
+    <entry file="file://$PROJECT_DIR$/html/build(1).gradle" />
+    <entry file="file://$PROJECT_DIR$/html/src/com/mygdx/game/client/HtmlLauncher.java" />
+    <entry file="file://$PROJECT_DIR$/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/core/assets/PNG/_Spritesheet.png" />
+    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Background.png" />
+    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_15.png" />
+    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_14.png" />
+    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_10.png" />
+    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_9.png" />
+    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_8.png" />
+    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_7.png" />
+    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_6.png" />
+    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_5.png" />
+    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_4.png" />
+    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_3.png" />
+    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_2.png" />
+    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_1.png" />
+    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/UI/Menu.java" />
+    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Object_1.png" />
+    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/we.java" />
+    <entry file="file://$PROJECT_DIR$/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java" />
+    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Player.java" />
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="-971">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/build(1).gradle" />
-    <entry file="file://$PROJECT_DIR$/html/src/com/mygdx/game/client/HtmlLauncher.java">
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/build/libs/exploded/html-1.0.war/WEB-INF/classes/com/mygdx/game/client/HtmlLauncher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/build/classes/main/com/mygdx/game/client/HtmlLauncher.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/assets/PNG/_Spritesheet.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Background.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_15.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_14.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_10.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_9.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_8.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_7.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_6.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_5.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Tile_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/UI/Menu.java" />
-    <entry file="file://$PROJECT_DIR$/core/assets/PNG/Object_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/we.java" />
     <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="130">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java">
+    <entry file="file://$PROJECT_DIR$/html/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="437">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Block.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="72" column="125" lean-forward="false" selection-start-line="72" selection-start-column="125" selection-end-line="72" selection-end-column="125" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="172">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Level1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
